@@ -1,0 +1,15 @@
+
+
+
+
+pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple 
+
+
+python manage.py runserver
+
+http://127.0.0.1:8000/
+
+账号 admins    密码 admins
+
+
+

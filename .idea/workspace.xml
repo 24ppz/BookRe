@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c047e25f-3cdd-4354-ae6c-db57a0adc135" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Data_insert.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/README.md" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Spider_comment.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Spider_douban.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/baseditemCF.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/brecommend/settings.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/index/admin.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/index/models.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/index/recommend.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/index/static/css/dangdang.css" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/index/static/css/detail.css" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/index/static/js/detail.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/index/static/js/jquery.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/index/static/js/test.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/index/templates/detail.html" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/index/templates/index.html" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/index/urls.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/index/views.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/user/models.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/user/templates/editpwd.html" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/user/templates/login.html" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/user/templates/personalinfo.html" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/user/urls.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/user/user_method.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/user/views.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="28E5DQSDvGRTjl7z4B1eNjBTwIa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/01zhuomian/code/code/manage.py",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Python\pyProject\brecommend\index\static\images" />
+      <recent name="F:\Python\pyProject\brecommend\index\static\css" />
+      <recent name="F:\Python\pyProject\brecommend\index\static\js" />
+      <recent name="F:\Python\pyProject\brecommend\user\static\js" />
+      <recent name="F:\Python\pyProject\brecommend\user\static\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Python\pyProject\brecommend\index\static\css" />
+      <recent name="F:\Python\pyProject\brecommend\index\static\images" />
+      <recent name="F:\Python\pyProject\brecommend\index\static\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="brecommend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\miniconda_py38\anzhuang\envs\python37_9\python.exe" />
+      <option name="SDK_NAME" value="Python 3.7 (2)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c047e25f-3cdd-4354-ae6c-db57a0adc135" name="Changes" comment="" />
+      <created>1650768784366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650768784366</updated>
+      <workItem from="1650774492845" duration="27106000" />
+      <workItem from="1650861240583" duration="30245000" />
+      <workItem from="1650937990790" duration="12361000" />
+      <workItem from="1650954144995" duration="16509000" />
+      <workItem from="1651036360200" duration="18103000" />
+      <workItem from="1651064814044" duration="3632000" />
+      <workItem from="1651111426056" duration="31637000" />
+      <workItem from="1651196569763" duration="4069000" />
+      <workItem from="1651209851499" duration="24651000" />
+      <workItem from="1651282613684" duration="14376000" />
+      <workItem from="1651478760239" duration="3013000" />
+      <workItem from="1651570290379" duration="1217000" />
+      <workItem from="1651643139578" duration="13968000" />
+      <workItem from="1651710390320" duration="4067000" />
+      <workItem from="1652160851116" duration="6103000" />
+      <workItem from="1652174387456" duration="560000" />
+      <workItem from="1652175366933" duration="478000" />
+      <workItem from="1652229823292" duration="800000" />
+      <workItem from="1652249152816" duration="62000" />
+      <workItem from="1652283468680" duration="1025000" />
+      <workItem from="1652450859146" duration="446000" />
+      <workItem from="1653612131858" duration="2514000" />
+      <workItem from="1656904373144" duration="1614000" />
+      <workItem from="1656923329051" duration="1247000" />
+      <workItem from="1657030690589" duration="75000" />
+      <workItem from="1657091808744" duration="4870000" />
+      <workItem from="1657174996512" duration="1413000" />
+      <workItem from="1657324312033" duration="640000" />
+      <workItem from="1710740247857" duration="2737000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/brecommend$baseduserCF.coverage" NAME="baseduserCF Coverage Results" MODIFIED="1651217526177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/brecommend$Spider_douban.coverage" NAME="Spider_douban Coverage Results" MODIFIED="1652167500955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/brecommend$baseditemCF.coverage" NAME="baseditemCF Coverage Results" MODIFIED="1651217500697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/brecommend$Data_insert.coverage" NAME="Data_insert Coverage Results" MODIFIED="1651496895598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/brecommend$recommend.coverage" NAME="recommend Coverage Results" MODIFIED="1651238138463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/index" />
+    <SUITE FILE_PATH="coverage/code$manage.coverage" NAME="manage 覆盖结果" MODIFIED="1710745924788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/brecommend$Spider_comment.coverage" NAME="Spider_comment Coverage Results" MODIFIED="1651245727431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
